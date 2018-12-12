@@ -5,7 +5,7 @@
 ## The StatefulSet installs 3 pods by default
 replicas: 3
 
-## The kafka image repository
+### The kafka image repository
 image: "confluentinc/cp-kafka"
 
 ## The kafka image tag
